@@ -1,0 +1,41 @@
+
+body{
+    background-size: cover;
+     background-repeat: no-repeat;
+}
+canvas{
+    border: 15px hwb(168 1% 65%) solid;
+    margin-left: 400px;
+    margin-top: 200px;
+}
+
+.starting{
+    display: inline-block;
+    margin-left: 700px;
+    color:cornsilk;
+    background-color: darkslategrey;
+    width: 200px;
+    height: 100px;  
+    border-radius: 50%;
+    font-size: 25px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.stoping{
+    display: inline-block;
+    color:cornsilk;
+    background-color: brown;
+    width: 200px;
+    height: 100px;
+    border-radius: 50%;
+    font-size: 25px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+button:hover {
+    color:rgb(13, 1, 9);
+    opacity: 0.8;
+    background-color: rgb(58, 95, 95);
+}
+
+
